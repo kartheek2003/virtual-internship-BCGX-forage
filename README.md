@@ -89,8 +89,3 @@ The project consists of several stages, including hypothesis formulation, explor
 ## Conclusion
 This project provides a structured approach to diagnosing and mitigating customer churn within PowerCo's SME segment. Through predictive modeling and price sensitivity analysis, the insights generated enable PowerCo to apply targeted discounts strategically, supporting business sustainability in a competitive market.
 
-## Repository Contents
-- `data/`: Sample or synthetic datasets (for privacy reasons, client data not shared)
-- `notebooks/`: Jupyter notebooks with analysis, feature engineering, and model training
-- `README.md`: Project overview and instructions
-- `requirements.txt`: List of dependencies for replication
